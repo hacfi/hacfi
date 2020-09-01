@@ -1,4 +1,5 @@
-https://github-readme-stats.vercel.app/api?username=hacfi&count_private=1
+
+[![hacfi's github stats](https://github-readme-stats.vercel.app/api?username=hacfi&count_private=1)](https://github.com/hacfi)
 
 <!--
 **hacfi/hacfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
